@@ -1,0 +1,2 @@
+logs/*log
+!logs/first.log
